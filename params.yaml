@@ -35,7 +35,7 @@ img_augment:
   class_mode: 'categorical'
 
 
-model_dir: saved_models
+model_dir: models
 
 web_model_directory: models/trained.h5
 
