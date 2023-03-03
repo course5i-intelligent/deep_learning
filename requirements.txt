@@ -13,3 +13,4 @@ jupyterlab
 argparse
 pytest-shutil
 seaborn
+joblib
